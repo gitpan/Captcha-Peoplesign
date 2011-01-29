@@ -23,7 +23,7 @@ my %WriteMakefileArgs = (
     'HTML::Tiny' => '1.05',
     'LWP::UserAgent' => '5.835'
   },
-  'VERSION' => '0.00002',
+  'VERSION' => '0.00003',
   'test' => {
     'TESTS' => 't/*.t'
   }
