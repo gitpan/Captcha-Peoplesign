@@ -14,5 +14,5 @@ meta-spec:
 name: Captcha-Peoplesign
 requires:
   HTML::Tiny: 1.05
-  LWP::UserAgent: 5.835
-version: 0.00004
+  LWP::UserAgent: 5.829
+version: 0.00005

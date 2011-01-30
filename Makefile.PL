@@ -21,9 +21,9 @@ my %WriteMakefileArgs = (
   'NAME' => 'Captcha::Peoplesign',
   'PREREQ_PM' => {
     'HTML::Tiny' => '1.05',
-    'LWP::UserAgent' => '5.835'
+    'LWP::UserAgent' => '5.829'
   },
-  'VERSION' => '0.00004',
+  'VERSION' => '0.00005',
   'test' => {
     'TESTS' => 't/*.t'
   }
